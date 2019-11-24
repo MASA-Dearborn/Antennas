@@ -1,0 +1,70 @@
+{
+    "parameters": [
+        {
+            "expr": "1.5875",
+            "name": "DT",
+            "value": "1.5875"
+        },
+        {
+            "expr": "149.86",
+            "name": "DW",
+            "value": "149.86"
+        },
+        {
+            "expr": "30.48",
+            "name": "DL",
+            "value": "30.48"
+        },
+        {
+            "expr": "63",
+            "name": "DIL",
+            "value": "63"
+        },
+        {
+            "expr": "1",
+            "name": "CT",
+            "value": "1"
+        },
+        {
+            "expr": "3",
+            "name": "DIG",
+            "value": "3"
+        },
+        {
+            "expr": "3",
+            "name": "DIW",
+            "value": "3"
+        },
+        {
+            "expr": ".81",
+            "name": "IC",
+            "value": ".81"
+        },
+        {
+            "expr": "2.9",
+            "name": "ID",
+            "value": "2.9"
+        },
+        {
+            "expr": "5",
+            "name": "OC",
+            "value": "5"
+        },
+        {
+            "expr": "3",
+            "name": "CO",
+            "value": "3"
+        },
+        {
+            "expr": "3",
+            "name": "MW",
+            "value": "3"
+        },
+        {
+            "expr": "0.6438",
+            "name": "PT",
+            "value": "0.6438"
+        }
+    ],
+    "version": 1
+}

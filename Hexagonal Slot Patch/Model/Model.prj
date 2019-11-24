@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2019.5 - Apr 26 2019 - ACIS 28.0.2 - Student Edition
+[Author]
+pr3de
+[Mesh Cells]
+
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Unknown
+[Modeler Unique ID]
+5:hexagonal slot patch.cst?713ccab8ae1c2a480d87915279acadae?87027:numberofparameters=14:port=1>mode=1>zre=0>zim=0:::oc?id?ic?cy?cx?mw?pw?pl?r2?r?dw?dl?dt?ct
+[Comment]

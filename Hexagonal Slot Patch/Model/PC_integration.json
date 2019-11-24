@@ -1,0 +1,75 @@
+{
+   "inputVariables": [
+      {
+         "name": "CT",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "DT",
+         "type": "float",
+         "value": 1.5875
+      },
+      {
+         "name": "DL",
+         "type": "float",
+         "value": 200.0
+      },
+      {
+         "name": "DW",
+         "type": "float",
+         "value": 200.0
+      },
+      {
+         "name": "R",
+         "type": "float",
+         "value": 10.0
+      },
+      {
+         "name": "R2",
+         "type": "float",
+         "value": 32.25
+      },
+      {
+         "name": "PL",
+         "type": "float",
+         "value": 90.0
+      },
+      {
+         "name": "PW",
+         "type": "float",
+         "value": 110.0
+      },
+      {
+         "name": "MW",
+         "type": "float",
+         "value": 5.0
+      },
+      {
+         "name": "Cx",
+         "type": "float",
+         "value": 0.0
+      },
+      {
+         "name": "Cy",
+         "type": "float",
+         "value": 25.0
+      },
+      {
+         "name": "IC",
+         "type": "float",
+         "value": 0.94
+      },
+      {
+         "name": "ID",
+         "type": "float",
+         "value": 2.95
+      },
+      {
+         "name": "OC",
+         "type": "float",
+         "value": 4.95
+      }
+   ],
+   "outputVariables": []
+}

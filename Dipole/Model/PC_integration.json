@@ -1,0 +1,70 @@
+{
+   "inputVariables": [
+      {
+         "name": "DT",
+         "type": "float",
+         "value": 1.5875
+      },
+      {
+         "name": "DW",
+         "type": "float",
+         "value": 149.86
+      },
+      {
+         "name": "DL",
+         "type": "float",
+         "value": 30.48
+      },
+      {
+         "name": "DIL",
+         "type": "float",
+         "value": 63.0
+      },
+      {
+         "name": "CT",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "DIG",
+         "type": "float",
+         "value": 3.0
+      },
+      {
+         "name": "DIW",
+         "type": "float",
+         "value": 3.0
+      },
+      {
+         "name": "IC",
+         "type": "float",
+         "value": 0.81
+      },
+      {
+         "name": "ID",
+         "type": "float",
+         "value": 2.9
+      },
+      {
+         "name": "OC",
+         "type": "float",
+         "value": 5.0
+      },
+      {
+         "name": "CO",
+         "type": "float",
+         "value": 3.0
+      },
+      {
+         "name": "MW",
+         "type": "float",
+         "value": 3.0
+      },
+      {
+         "name": "PT",
+         "type": "float",
+         "value": 0.6438
+      }
+   ],
+   "outputVariables": []
+}

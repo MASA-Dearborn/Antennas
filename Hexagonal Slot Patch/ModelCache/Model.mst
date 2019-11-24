@@ -1,0 +1,27 @@
+Antenna:Ground Plane
+0
+1
+Antenna:Dielectric
+0
+1
+Antenna:Hexagon Patch
+0
+1
+Antenna:Patch
+0
+1
+Antenna:Microstrip 1
+0
+1
+Antenna:Microstrip 2
+0
+1
+Coax:Inner Conductor
+0
+1
+Coax:Dielectric
+0
+1
+Coax:Outer Conductor
+0
+1

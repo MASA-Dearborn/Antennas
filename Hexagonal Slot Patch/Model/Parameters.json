@@ -1,0 +1,75 @@
+{
+    "parameters": [
+        {
+            "expr": "1",
+            "name": "CT",
+            "value": "1"
+        },
+        {
+            "expr": "1.5875",
+            "name": "DT",
+            "value": "1.5875"
+        },
+        {
+            "expr": "200",
+            "name": "DL",
+            "value": "200"
+        },
+        {
+            "expr": "200",
+            "name": "DW",
+            "value": "200"
+        },
+        {
+            "expr": "10",
+            "name": "R",
+            "value": "10"
+        },
+        {
+            "expr": "32.25",
+            "name": "R2",
+            "value": "32.25"
+        },
+        {
+            "expr": "90",
+            "name": "PL",
+            "value": "90"
+        },
+        {
+            "expr": "110",
+            "name": "PW",
+            "value": "110"
+        },
+        {
+            "expr": "5",
+            "name": "MW",
+            "value": "5"
+        },
+        {
+            "expr": "0",
+            "name": "Cx",
+            "value": "0"
+        },
+        {
+            "expr": "25",
+            "name": "Cy",
+            "value": "25"
+        },
+        {
+            "expr": "0.94",
+            "name": "IC",
+            "value": "0.94"
+        },
+        {
+            "expr": "2.95",
+            "name": "ID",
+            "value": "2.95"
+        },
+        {
+            "expr": "4.95",
+            "name": "OC",
+            "value": "4.95"
+        }
+    ],
+    "version": 1
+}

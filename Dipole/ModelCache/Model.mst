@@ -1,0 +1,24 @@
+Antenna:Dielectric
+0
+1
+Antenna:Dipole One
+0
+1
+Antenna:Dipole Two
+0
+1
+Coax:Inner Conductor
+0
+1
+Coax:Dielectric
+0
+1
+Coax:Outer Conductor
+0
+1
+Antenna:Microstrip
+0
+1
+Antenna:Ground Pin
+0
+1
