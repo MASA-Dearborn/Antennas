@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaGeometryFile creator="MatrixCalc" version="20170926">
+  <Components>
+    <Shape name="Components\Antenna:Dielectric" id="1" visible="1" material="G-10 (lossy)" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="1 2 3 4 5 6 7"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\Antenna:Ground Plane" id="2" visible="1" material="Copper (pure)" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="8 9 10 11 12 13 14"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\Antenna:Hexagon Patch" id="3" visible="1" material="Copper (pure)" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="15 16 17 18 19 20 21 22"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\Antenna:Microstrip 1" id="4" visible="1" material="Copper (pure)" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="23 24 25 26 27 28"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\Antenna:Microstrip 2" id="5" visible="1" material="Copper (pure)" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="29 30 31 32 33 34"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\Antenna:Patch" id="6" visible="1" material="Copper (pure)" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="35 36 37 38 39 40 41 42 43 44 45 46"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\Coax:Dielectric" id="7" visible="1" material="PTFE (lossy)" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="47 48 49 50"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\Coax:Inner Conductor" id="8" visible="1" material="Copper (pure)" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="51 52 53"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\Coax:Outer Conductor" id="9" visible="1" material="Copper (pure)" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="54 55 56 57"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+  </Components>
+  <SimulationDomain min="-181.9105072021 -181.9105072021 -86.91050720215" max="181.9105072021 181.9105072021 85.49800872803"/>
+  <Materials>
+    <Material name="air_0" priority="1">
+      <Drawstyle color="1 1 1" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="G-10 (lossy)" priority="1">
+      <Drawstyle color="1 1 1" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Copper (pure)" priority="1">
+      <Drawstyle color="1 1 1" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="PTFE (lossy)" priority="1">
+      <Drawstyle color="1 1 1" linestrength="1" transparency="0"/>
+    </Material>
+  </Materials>
+  <GeometryFile filename="3d.slm" type="slim" subdomain_id=""/>
+  <MeshType type="HEX"/>
+  <Groups/>
+  <HexMesh>
+    <Dimensions nx="37" ny="65" nz="20"/>
+    <MeshPlanesX values="0 1.475 2.475 3.5 6.5 9.4375 12.375 14 16.8 19.6 22.4 25.2 28 31.0287201247 34.0574402494 37.0861603741 40.9138396259 43.9425597506 46.9712798753 50 53.18940509174 56.37881018347 59.56821527521 66.69753081661 75 83.30246918339 90.43178472479 93.62118981653 96.81059490826 100 103.2978486734 106.5956973468 109.8935460202 126.4904606623 144.9638096583 163.4371586543 181.9105076503"/>
+    <MeshPlanesY values="-181.9105076503 -163.4371586543 -144.9638096583 -126.4904606623 -109.8935460202 -106.5956973468 -103.2978486734 -100 -96.70101543887 -93.40203087774 -90.10304631661 -81.50438205758 -72.16812735253 -62.83187264748 -53.49561794242 -44.89695368339 -41.59796912226 -38.29898456113 -35 -32.31217782649 -29.62435565298 -26.93653347947 -24.24871130596 -21.00111604177 -17.75352077758 -14.50592551339 -11.2583302492 -8.443747686898 -5.629165124599 -2.814582562299 -1.255262969126e-15 2.814582562299 5.629165124599 8.443747686898 11.2583302492 12.625 15.925 19.225 22.525 23.525 25 26.475 27.475 29.98333333333 32.49166666667 35 37.375 40.57236550409 43.76973100819 49.70046389573 58.07241612786 66.44436835998 74.81632059211 83.18827282424 90.40790348772 93.60526899181 96.80263449591 100 103.2978486734 106.5956973468 109.8935460202 126.4904606623 144.9638096583 163.4371586543 181.9105076503"/>
+    <MeshPlanesZ values="-86.91050765027 -69.42273542921 -51.93496320815 -34.44719098709 -16.95941876603 -8.273571364822 -5 -3.333333333333 -1.666666666667 -4.645614074673e-16 1 2.5875 3.5875 6.885348673407 10.18319734681 13.48104602022 30.07796066233 48.55130965831 67.02465865429 85.49800765027"/>
+  </HexMesh>
+  <Symmetries>
+    <SymmetryX distance="0"/>
+  </Symmetries>
+</MetaGeometryFile>

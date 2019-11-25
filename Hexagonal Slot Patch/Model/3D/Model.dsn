@@ -38,9 +38,9 @@ PortModeConsState: 0
 
 
 *** newmonitor
-monname: "farfield (f=950)"
+monname: "farfield (f=915)"
 nmonfrequencies: 1
-monfrequencies: "950" 
+monfrequencies: "915" 
 montype: 18
 mondomain: 1
 mon_fmin: ""
@@ -49,20 +49,9 @@ mon_nfSteps: ""
 *** endmonitor
 
 *** newmonitor
-monname: "farfield (f=1500)"
+monname: "loss (f=915)"
 nmonfrequencies: 1
-monfrequencies: "1500" 
-montype: 18
-mondomain: 1
-mon_fmin: ""
-mon_fmax: ""
-mon_nfSteps: ""
-*** endmonitor
-
-*** newmonitor
-monname: "loss (f=1500)"
-nmonfrequencies: 1
-monfrequencies: "1500" 
+monfrequencies: "915" 
 montype: 6
 mondomain: 1
 mon_fmin: ""
@@ -71,9 +60,9 @@ mon_nfSteps: ""
 *** endmonitor
 
 *** newmonitor
-monname: "power (f=1500)"
+monname: "power (f=915)"
 nmonfrequencies: 1
-monfrequencies: "1500" 
+monfrequencies: "915" 
 montype: 2
 mondomain: 1
 mon_fmin: ""
@@ -82,9 +71,9 @@ mon_nfSteps: ""
 *** endmonitor
 
 *** newmonitor
-monname: "h-field (f=1500)"
+monname: "h-field (f=915)"
 nmonfrequencies: 1
-monfrequencies: "1500" 
+monfrequencies: "915" 
 montype: 1
 mondomain: 1
 mon_fmin: ""
@@ -93,53 +82,9 @@ mon_nfSteps: ""
 *** endmonitor
 
 *** newmonitor
-monname: "e-field (f=1500)"
+monname: "e-field (f=915)"
 nmonfrequencies: 1
-monfrequencies: "1500" 
-montype: 0
-mondomain: 1
-mon_fmin: ""
-mon_fmax: ""
-mon_nfSteps: ""
-*** endmonitor
-
-*** newmonitor
-monname: "loss (f=950)"
-nmonfrequencies: 1
-monfrequencies: "950" 
-montype: 6
-mondomain: 1
-mon_fmin: ""
-mon_fmax: ""
-mon_nfSteps: ""
-*** endmonitor
-
-*** newmonitor
-monname: "power (f=950)"
-nmonfrequencies: 1
-monfrequencies: "950" 
-montype: 2
-mondomain: 1
-mon_fmin: ""
-mon_fmax: ""
-mon_nfSteps: ""
-*** endmonitor
-
-*** newmonitor
-monname: "h-field (f=950)"
-nmonfrequencies: 1
-monfrequencies: "950" 
-montype: 1
-mondomain: 1
-mon_fmin: ""
-mon_fmax: ""
-mon_nfSteps: ""
-*** endmonitor
-
-*** newmonitor
-monname: "e-field (f=950)"
-nmonfrequencies: 1
-monfrequencies: "950" 
+monfrequencies: "915" 
 montype: 0
 mondomain: 1
 mon_fmin: ""

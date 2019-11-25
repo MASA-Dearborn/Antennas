@@ -23,27 +23,27 @@
       {
          "name": "R",
          "type": "float",
-         "value": 10.0
+         "value": 13.0
       },
       {
          "name": "R2",
          "type": "float",
-         "value": 32.25
+         "value": 28.0
       },
       {
          "name": "PL",
          "type": "float",
-         "value": 90.0
+         "value": 70.0
       },
       {
          "name": "PW",
          "type": "float",
-         "value": 110.0
+         "value": 100.0
       },
       {
          "name": "MW",
          "type": "float",
-         "value": 5.0
+         "value": 7.0
       },
       {
          "name": "Cx",

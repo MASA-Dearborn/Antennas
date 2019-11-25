@@ -5,7 +5,7 @@
 [Author]
 pr3de
 [Mesh Cells]
-
+43,776
 [Mesh Type]
 Hexahedral
 [Last Problem Type]
@@ -15,7 +15,7 @@ HF Time Domain
 [Last Solver Type Abb]
 t
 [Results]
-Unknown
+Time Domain: S-Parameter
 [Modeler Unique ID]
-5:hexagonal slot patch.cst?713ccab8ae1c2a480d87915279acadae?87027:numberofparameters=14:port=1>mode=1>zre=0>zim=0:::oc?id?ic?cy?cx?mw?pw?pl?r2?r?dw?dl?dt?ct
+5:hexagonal slot patch.cst?4945e919c467718f039d753dcfdc9aaa?95133:numberofparameters=14:port=1>mode=1>zre=50>zim=0:::ct?cx?cy?dl?dt?dw?ic?id?mw?oc?pl?pw?r?r2
 [Comment]
