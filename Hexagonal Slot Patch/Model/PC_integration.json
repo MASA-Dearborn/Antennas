@@ -13,37 +13,37 @@
       {
          "name": "DL",
          "type": "float",
-         "value": 200.0
+         "value": 100.0
       },
       {
          "name": "DW",
          "type": "float",
-         "value": 200.0
+         "value": 150.0
       },
       {
          "name": "R",
          "type": "float",
-         "value": 13.0
+         "value": 20.0
       },
       {
          "name": "R2",
          "type": "float",
-         "value": 28.0
+         "value": 27.0
       },
       {
          "name": "PL",
          "type": "float",
-         "value": 70.0
+         "value": 66.0
       },
       {
          "name": "PW",
          "type": "float",
-         "value": 100.0
+         "value": 67.0
       },
       {
          "name": "MW",
          "type": "float",
-         "value": 7.0
+         "value": 5.0
       },
       {
          "name": "Cx",
@@ -53,7 +53,7 @@
       {
          "name": "Cy",
          "type": "float",
-         "value": 25.0
+         "value": 19.0
       },
       {
          "name": "IC",

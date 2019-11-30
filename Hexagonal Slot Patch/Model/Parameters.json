@@ -11,39 +11,39 @@
             "value": "1.5875"
         },
         {
-            "expr": "200",
-            "name": "DL",
-            "value": "200"
-        },
-        {
-            "expr": "200",
-            "name": "DW",
-            "value": "200"
-        },
-        {
-            "expr": "13",
-            "name": "R",
-            "value": "13"
-        },
-        {
-            "expr": "28",
-            "name": "R2",
-            "value": "28"
-        },
-        {
-            "expr": "70",
-            "name": "PL",
-            "value": "70"
-        },
-        {
             "expr": "100",
-            "name": "PW",
+            "name": "DL",
             "value": "100"
         },
         {
-            "expr": "7",
+            "expr": "150",
+            "name": "DW",
+            "value": "150"
+        },
+        {
+            "expr": "20",
+            "name": "R",
+            "value": "20"
+        },
+        {
+            "expr": "27",
+            "name": "R2",
+            "value": "27"
+        },
+        {
+            "expr": "66",
+            "name": "PL",
+            "value": "66"
+        },
+        {
+            "expr": "67",
+            "name": "PW",
+            "value": "67"
+        },
+        {
+            "expr": "5",
             "name": "MW",
-            "value": "7"
+            "value": "5"
         },
         {
             "expr": "0",
@@ -51,9 +51,9 @@
             "value": "0"
         },
         {
-            "expr": "25",
+            "expr": "19",
             "name": "Cy",
-            "value": "25"
+            "value": "19"
         },
         {
             "expr": "0.94",

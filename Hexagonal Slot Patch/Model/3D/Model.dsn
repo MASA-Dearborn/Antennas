@@ -38,9 +38,31 @@ PortModeConsState: 0
 
 
 *** newmonitor
+monname: "farfield (f=900)"
+nmonfrequencies: 1
+monfrequencies: "900" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
 monname: "farfield (f=915)"
 nmonfrequencies: 1
 monfrequencies: "915" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=930)"
+nmonfrequencies: 1
+monfrequencies: "930" 
 montype: 18
 mondomain: 1
 mon_fmin: ""

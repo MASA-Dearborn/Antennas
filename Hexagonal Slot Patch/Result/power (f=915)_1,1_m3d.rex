@@ -15,7 +15,7 @@
   <Symmetries>
     <SymmetryX type="inverted mirror mirror" offset="0 0 0"/>
   </Symmetries>
-  <SimulationDomain min="-181.9105072021 -181.9105072021 -86.91050720215" max="181.9105072021 181.9105072021 85.49800872803"/>
+  <SimulationDomain min="-262.370300293 -237.3702850342 -192.3702850342" max="262.370300293 237.3702850342 190.9577789307"/>
   <PlotSettings Clipping="Possible" Plot="4" ignore_symmetry="0" deformation="0"/>
   <Source type="SOLVER"/>
 </MetaResultFile>
